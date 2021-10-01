@@ -5,7 +5,7 @@ header-img: img/home-bg-art.jpg
 email: 3180800798@qq.com
 description: "@waahah,不要让任何事情成为你不去学习的理由！"
 keyword: "waahah, @waahah, waahah的博客,waahah Blog, 博客, 个人网站, 互联网"
-url: "https://waahah.github.io"              # your host, for absolute URL
+url: "http://waahah.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
