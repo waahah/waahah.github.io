@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "redis3.0.x集群搭建 "
-date:       2019-8-04 00:00:00
-author:     "wblearn"
+date:       2020-8-04 00:00:00
+author:     "waahah"
 header-img: "img/contact-bg.jpg"
 tags:
     - redis
