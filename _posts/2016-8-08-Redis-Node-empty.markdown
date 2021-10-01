@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "redis集群报错Node is not empty "
-date:       2019-8-08 00:00:00
-author:     "wblearn"
+date:       2020-8-08 00:00:00
+author:     "waahah"
 header-img: "img/contact-bg.jpg"
 tags:
     - redis
