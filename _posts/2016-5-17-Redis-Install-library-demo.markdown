@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "redis的安装，类库及demo "
-date:       2016-5-17 00:00:00
-author:     "wblearn"
+date:       2019-5-17 00:00:00
+author:     "waahah"
 header-img: "img/contact-bg.jpg"
 tags:
     - redis
