@@ -12,7 +12,7 @@ tags:
 
 <div data-note-content class="show-content">
           <h1>写在前面</h1>
-<p>前天我的github博客搭建好啦，并在本地写了一篇文章<a href="https://waahah.github.io/2020/12/23/one/" target="_blank">我的独立博客<small>(第一篇)</small></a>利用git将其push到github上，那么，今天就简单记录下git的使用。整个过程是在windows下操作的。</p>
+<p>前天我的github博客搭建好啦，并在本地写了一篇文章<a href="http://waahah.github.io/2020/12/23/one/" target="_blank">我的独立博客<small>(第一篇)</small></a>利用git将其push到github上，那么，今天就简单记录下git的使用。整个过程是在windows下操作的。</p>
 <h1>git将本地项目push到github</h1>
 <p><strong>1.Git下载地址</strong><br>git官网是需要翻墙才能下载的，这里给出Git-2.9.2-64-bit下载地址(我的是64位系统)： <a href="http://download.csdn.net/download/gaoshangwin/9578050" target="_blank">Git-2.9.2-64-bit</a></p>
 <p>下载后安装步骤可以参考这里：<a href="http://blog.csdn.net/wudalang_gd/article/details/53860563" target="_blank">Win7下Git的安装</a></p>
@@ -70,11 +70,9 @@ tags:
 <pre>git add . //添加所有本地代码到缓冲区<br>git commit -m "first commit"//描述信息<br>git push -u origin master//origin也可以自己命名远程仓库名称</pre>
 <br><strong><small>ps:我试了两次没有push成功，可能是网速的原因，第三次push成功，大家要有耐心哦</small></strong>
 <blockquote><p>在github查看自己的项目是否传上去 </p></blockquote>
-<div class="image-package">
-<img src="http://upload-images.jianshu.io/upload_images/2556999-e6e847c0adcf59f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" data-original-src="http://upload-images.jianshu.io/upload_images/2556999-e6e847c0adcf59f4.png?imageMogr2/auto-orient/strip%7CimageView2/2"><br><div class="image-caption">效果图</div>
-</div>
+
 <h1>写在最后</h1>
 <p>那些说给树听的话，嵌在树的年轮里，随流年一点一点长成参天的回忆。</p>
-<blockquote><p><a href="https://wblearn.github.io/" target="_blank">我的独立博客</a>因为刚刚上线，可能会存在一些问题，当然你也可以fork，star我的模板。</p></blockquote>
+<blockquote><p><a href="http://waahah.github.io/" target="_blank">我的独立博客</a>因为刚刚上线，可能会存在一些问题，当然你也可以fork，star我的模板。</p></blockquote>
 </li>
         </div>
