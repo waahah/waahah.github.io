@@ -12,7 +12,7 @@ tags:
 
 <div data-note-content class="show-content">
           <h1>写在前面</h1>
-<p>前天我的github博客搭建好啦，并在本地写了一篇文章<a href="http://waahah.github.io/2020/12/23/one/" target="_blank">我的独立博客<small>(第一篇)</small></a>利用git将其push到github上，那么，今天就简单记录下git的使用。整个过程是在windows下操作的。</p>
+<p>前天我的博客搭建好啦，并在本地写了一篇文章<a href="http://waahah.github.io/2020/12/23/one/" target="_blank">我的独立博客<small>(第一篇)</small></a>利用git将其push到github上，那么，今天就简单记录下git的使用。整个过程是在windows下操作的。</p>
 <h1>git将本地项目push到github</h1>
 <p><strong>1.Git下载地址</strong><br>git官网是需要翻墙才能下载的，这里给出Git-2.9.2-64-bit下载地址(我的是64位系统)： <a href="http://download.csdn.net/download/gaoshangwin/9578050" target="_blank">Git-2.9.2-64-bit</a></p>
 <p>下载后安装步骤可以参考这里：<a href="http://blog.csdn.net/wudalang_gd/article/details/53860563" target="_blank">Win7下Git的安装</a></p>
