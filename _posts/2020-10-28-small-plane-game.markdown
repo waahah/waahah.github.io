@@ -696,6 +696,6 @@ public class ShootGame extends JPanel {
 <img src="http://upload-images.jianshu.io/upload_images/2556999-8217513e89c06a4a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" data-original-src="http://upload-images.jianshu.io/upload_images/2556999-8217513e89c06a4a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2"><br><div class="image-caption"></div>
 </div>
 
-<p>下载地址：<a href="https://github.com/waahah/Small-plane-game" target="_blank">Java打飞机小游戏（附完整源码）</a></p>
+<p>下载地址：<a href="https://gitee.com/waahah/Small-plane-game" target="_blank">Java打飞机小游戏（附完整源码）</a></p>
 
         </div>
