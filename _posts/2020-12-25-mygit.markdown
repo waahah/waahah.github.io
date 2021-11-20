@@ -28,7 +28,7 @@ tags:
 </li><li>
 <em>方法2. 使用git bash/git cmd 创建(git bash 为例 )</em>
 <blockquote><p>设置git的user.name和user.email</p></blockquote>
-<pre>$ git config --global user.name "wblearn"<br>$ git config --global user.email "your email"</pre>
+<pre>$ git config --global user.name "waahah"<br>$ git config --global user.email "your email"</pre>
 
 <blockquote><p>查看是否已经存在ssh key是否存在</p></blockquote>
 <pre>$ cd ~/.ssh</pre>
