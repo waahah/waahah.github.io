@@ -12,7 +12,7 @@ tags:
 
 <div data-note-content class="show-content">
           <h1>
-<a target="_blank"></a>写在前面</h1><p>继上一篇<a href="http://blog.csdn.net/wudalang_gd/article/details/52121204" target="_blank"><u>redis3.0.x集群搭建</u></a>完成之后，当然要用客户端JedisCluster简单测试一下集群啦，这样就要将redis.conf里bind 127.0.0.1改成bind +真机ip(我的192.168.161.131),下面简单地将测试中遇到的问题及解决办法记录在本篇。</p><h1>
+<a target="_blank"></a>写在前面</h1><p>继上一篇<a href="http://waahah.xyz/2020/08/04/Redis-cluster-building/" target="_blank"><u>redis3.0.x集群搭建</u></a>完成之后，当然要用客户端JedisCluster简单测试一下集群啦，这样就要将redis.conf里bind 127.0.0.1改成bind +真机ip(我的192.168.161.131),下面简单地将测试中遇到的问题及解决办法记录在本篇。</p><h1>
 <a target="_blank"></a>遇到的问题及解决办法</h1><p>在redis.conf里bind 真机ip后，接着重新执行每个redis.conf，最后再创建集群，但报错，如下图所示： <br></p><div class="image-package">
 <img alt="这里写图片描述" src="http://upload-images.jianshu.io/upload_images/2556999-b559fbce0ba22d84?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" data-original-src="http://upload-images.jianshu.io/upload_images/2556999-b559fbce0ba22d84?imageMogr2/auto-orient/strip"><br><div class="image-caption"></div>
 </div><p></p><br><p> 图中报的错即：</p><p></p><blockquote>
