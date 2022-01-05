@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "redis的安装，类库及demo "
-date:       2020-5-17 00:00:00
+date:       2021-5-17 00:00:00
 author:     "waahah"
 header-img: "img/contact-bg.jpg"
 tags:
