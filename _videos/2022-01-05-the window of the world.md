@@ -1,7 +1,7 @@
 ---
 title: 关于我跟老师灵魂交换这件事
 youtube_id: 764844745
-cover_id: img/videos_cover/105.jpg
+cover_id: img/videos_cover/teacher.webp
 date: 2022-01-05
 tags: [关于我跟老师灵魂交换这件事, video,waahah]
 ---
