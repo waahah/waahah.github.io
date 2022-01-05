@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "程序员的你是否熟练掌握Chrome开发者工具？"
+title:      "你是否熟练掌握Chrome开发者工具？"
 date:       2021-12-17 00:00:00
 author:     "waahah"
 header-img: "img/home-bg-o.jpg"
