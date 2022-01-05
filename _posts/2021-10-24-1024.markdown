@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "1024程序员节"
-date:       2020-10-24 00:00:00
+date:       2021-10-24 00:00:00
 author:     "waahah"
 header-img: "img/home-bg-o.jpg"
 tags:
