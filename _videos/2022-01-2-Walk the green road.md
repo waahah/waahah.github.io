@@ -1,7 +1,7 @@
 ---
 title: 无伤速通催逝员
 youtube_id: 680460950
-cover_id: img/videos_cover/68de84cfb2eb51cb13062033e38c2e5e46e5170a.jpg
+cover_id: img/videos_cover/wang.jpeg
 date: 2022-01-02
 tags: [无伤速通催逝员, video,waahah,鬼畜]
 ---
