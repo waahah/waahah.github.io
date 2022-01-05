@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      "感慨"
-date:       2020-12-31 00:00:00
+date:       2022-1-01 00:00:00
 author:     "waahah"
 header-img: "img/post-zj-2016.jpg"
 tags:
-    - 2020总结
+    - 2021总结
     - 闲谈
     - 
 ---
@@ -13,7 +13,7 @@ tags:
 ![](http://upload-images.jianshu.io/upload_images/2556999-521d7b975b962cca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 <h2>写在前面</h2>
-今天是2020年的最后一天了，
+今天是2021年的最后一天了，
 但是**回顾这一年，没有令到我特别自豪的事，反而对自己不满意的地方还是挺多。**那么就静下心来好好做个总结吧~
 
 **尽管王者荣耀打到王者了，我想如果能重新来过，我希望那时的自己，可以静下心来学习技术，提高编程能力。**
