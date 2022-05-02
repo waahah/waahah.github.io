@@ -112,8 +112,8 @@ defaults:
 # Friends
 friends: [
     {
-        title: "waahah的微博",
-        href: "https://weibo.com/waahah?is_all=1"
+        title: "zhihu",
+        href: "https://www.zhihu.com/people/suo-lian-jie-yi-han-68"
     },{
         title: "github",
         href: "https://github.com/waahah"
